@@ -1,0 +1,26 @@
+{
+  "name": "my-japanese",
+  "version": "1.0.0",
+  "description": "tools for managing japanese learning",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinhcongthanh696/my-japanense.git"
+  },
+  "author": "thanhdc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinhcongthanh696/my-japanense/issues"
+  },
+  "homepage": "https://github.com/dinhcongthanh696/my-japanense#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
